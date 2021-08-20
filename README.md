@@ -13,6 +13,9 @@
 ## My Contributions
 
 - Added a feature to add mentions functionality for comments and comment replies.
+
+![react mentions](https://media.giphy.com/media/uANwumKIaL575o9azI/giphy.gif?cid=790b761182cdcf084342583e390d4be102fc1a06e35a6343&rid=giphy.gif&ct=g)
+
 - Added a feature to share stories to social media platforms or copy story link.
 - Refactored graphql queries.
 - Added attachments feature for comments.
