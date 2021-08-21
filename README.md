@@ -14,13 +14,22 @@
 
 - Added a feature to add mentions functionality for comments and comment replies.
 
-![react mentions](https://media.giphy.com/media/uANwumKIaL575o9azI/giphy.gif?cid=790b761182cdcf084342583e390d4be102fc1a06e35a6343&rid=giphy.gif&ct=g)
+![mentions](https://media.giphy.com/media/uANwumKIaL575o9azI/giphy.gif?cid=790b761182cdcf084342583e390d4be102fc1a06e35a6343&rid=giphy.gif&ct=g)
 
 - Added a feature to share stories to social media platforms or copy story link.
+
+![share](https://media.giphy.com/media/xskyYME7VFoKFLQd6J/giphy.gif?cid=790b7611407024c419d2777300ce6cd380c2c2720af9e63d&rid=giphy.gif&ct=g)
+
 - Refactored graphql queries.
 - Added attachments feature for comments.
+
+![attachments](https://media.giphy.com/media/t5UxnysR87Ov9aT4VR/giphy.gif?cid=790b761187e4ff0fdf3f5073be7d8d767b2eef778749da09&rid=giphy.gif&ct=g)
+
 - Updated tests.
 - Added gallery feature that allows to show attached images in full screen mode and also provides a carousel if the number of images is more than one.
+
+![gallery](https://media.giphy.com/media/DiXHwUZ1h8uzrsDCcM/giphy.gif?cid=790b7611bd8041edd6b519627fdebcfafb70bdf590bbe76b&rid=giphy.gif&ct=g)
+
 - Priority labels and story creation date is now showing up on home page.
 - Added filter that sorts stories based on priority.
 - Revamped the Story Page.
